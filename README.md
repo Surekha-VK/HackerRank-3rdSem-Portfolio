@@ -8,17 +8,17 @@ All solutions are implemented in **Python 3**.
 
 ## HackerRank Profile
 
-[Visit my HackerRank Profile](YOUR_HACKERRANK_PROFILE_LINK)
+[Visit my HackerRank Profile](https://www.hackerrank.com/profile/surekhavk2001)
 
 ## Student Details
 
-- **Name:** YOUR_FULL_NAME
-- **USN:** YOUR_USN
+- **Name:** Surekha V K
+- **USN:** R25EJ156
 - **Semester:** 3rd Semester
-- **Branch:** YOUR_BRANCH
-- **University:** YOUR_UNIVERSITY
-- **GitHub:** YOUR_GITHUB_PROFILE_LINK
-- **HackerRank:** YOUR_HACKERRANK_PROFILE_LINK
+- **Branch:** CSIT
+- **University:** REVA UNIVERSITY
+- **GitHub:** https://github.com/Surekha-VK
+- **HackerRank:** https://www.hackerrank.com/profile/surekhavk2001
 
 ## Problems Completed
 
